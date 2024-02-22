@@ -25,7 +25,7 @@ A comprehensive platform for stock analysis, utilizing Google Cloud Functions, C
 Launching soon, Rent Simply is an advanced property management platform engineered to simplify and automate the daily operations of property owners and managers. This comprehensive web app integrates a full spectrum of property management tools into a user-friendly interface, enhancing efficiency and communication between landlords and tenants. Hosted on Google Cloud with MySQL for data storage, Rent Simply is poised to transform property management with its innovative features.
 
 - **Technologies:** Node.js, React, Google Cloud, MySQL
-- **Role:** Full Stack Developer, Cloud Solutions Architect
+- **Role:** Full Stack Developer, Cloud Architect
 
 ### Containerized Web Applications
 Managed server configurations and deployed multiple web applications using Docker and Docker Compose, ensuring seamless integration and deployment of services.
