@@ -1,7 +1,7 @@
 # Sean Fite - Computer Science Portfolio 🏳️‍🌈
 
 ## About Me
-Hello! I'm Sean, an aspiring software engineer and a Computer Science student graduating in June 2024. My journey in tech has led me to explore and build projects across the full stack of web development, cloud computing, and machine learning. With a passion for coding and a knack for problem-solving, I'm eager to contribute to innovative projects and continue expanding my knowledge in the tech world.
+Hello! I'm Sean, an aspiring software engineer and a BS Computer Science student graduating in June 2024. My journey in tech has led me to explore and build projects across the full stack of web development, cloud computing, and machine learning. With a passion for coding and a knack for problem-solving, I'm eager to contribute to innovative projects and continue expanding my knowledge in the tech world.
 
 ## Technical Skills
 - **Languages:** JavaScript, Java, Python
