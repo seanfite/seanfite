@@ -15,7 +15,7 @@ Hello! I'm Sean, an aspiring software engineer and a BS Computer Science student
 ## Projects
 Below are some highlights of my work, showcasing my ability to leverage technology to solve problems and build scalable solutions. Please note that these are shortened versions of the full projects, designed to demonstrate my proficiency and technical approach.
 
-### Stock Research Tool - BullsAI Stocks
+### BullsAI Stocks - Stock Research Web App 
 A comprehensive platform for stock analysis, utilizing Google Cloud Functions, Cloud Web Hosting, and machine learning to provide daily stock picks and market news. Features include AI powered chat-bot equipment with real-time market data, user authentication, payment processing, and interactive data visualization.
 
 - **Technologies:** Python Flask, Google Cloud, JavaScript, HTML/CSS
