@@ -24,13 +24,6 @@ A comprehensive platform for stock analysis, utilizing Google Cloud Functions, C
 ### Rent Simply - Property Management Web App
 Launching soon, Rent Simply is an advanced property management platform engineered to simplify and automate the daily operations of property owners and managers. This comprehensive web app integrates a full spectrum of property management tools into a user-friendly interface, enhancing efficiency and communication between landlords and tenants. Hosted on Google Cloud with MySQL for data storage, Rent Simply is poised to transform property management with its innovative features.
 
-#### Key Features:
-- **Tenant/Property Database:** A robust database system that organizes and manages all tenant and property information, making it easy to access and update.
-- **Invoice Sending:** Automated and manual invoice generation and sending capabilities, streamlining the rent collection process.
-- **Messaging Platform:** An in-website messaging system facilitating direct communication between landlords and tenants, enhancing the rental experience.
-- **Machine Learning for Rent Forecasting:** Utilizes machine learning algorithms to analyze rental market trends and forecast rent increases, offering landlords data-driven insights for decision-making.
-- **Maintenance Request Platform:** A dedicated platform for tenants to submit maintenance requests, allowing for efficient tracking and resolution of property issues.
-
 - **Technologies:** Node.js, React, Google Cloud, MySQL
 - **Role:** Full Stack Developer, Cloud Solutions Architect
 
